@@ -1,0 +1,13 @@
+﻿@page "/"
+@using Blazored.Video
+@using Blazored.Video.Support
+@inherits IndexBase
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+<BlazoredVideo controls="controls"
+			   Play="OnPlayerPlayed">
+	<source src="https://res.cloudinary.com/blazoredgitter/video/upload/v1557015491/samples/elephants.mp4" />
+</BlazoredVideo>

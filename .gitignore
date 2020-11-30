@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/BlazoredBugNo3/.vs/BlazoredBugNo3
+/BlazoredBugNo3/BlazoredBugNo3/obj
+/BlazoredBugNo3/BlazoredBugNo3/bin/Debug/netstandard2.1
+/_ReSharper.Caches/ReSharperPlatformVs16202_8a71f6ce.00
